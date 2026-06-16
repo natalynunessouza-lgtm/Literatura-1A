@@ -4,6 +4,7 @@ body{
  }  
 
  .cabecalho{
-     background-color: khaki;
+     background-color: rgb(253, 237, 95);
      text-align: center;
+     padding: 30px;
  }  
