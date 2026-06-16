@@ -2,3 +2,8 @@ body{
     background-color: rgb(28, 132, 202);
     color: rgb(163, 0, 0);
  }  
+
+ .cabecalho{
+     background-color: khaki;
+     text-align: center;
+ }  
